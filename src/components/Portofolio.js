@@ -16,7 +16,7 @@ function Portofolio() {
                         src="./images/tender1.png"
                     />
                 </a>
-				<p>website "The Agency Tender Client" </p>
+				<p>Website "The Agency Tender Client" </p>
             </div>
             <div className='portofolio-col text-center'>
                 <a href="https://theagency.id/tender/client/#/" target='_blank'>
