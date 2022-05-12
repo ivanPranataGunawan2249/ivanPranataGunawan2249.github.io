@@ -7,7 +7,7 @@ function Portofolio() {
     <div id='portofolio' className='portfolio'>
         <div className="portfolio-section text-center">
 			<h2><span> </span>PORTFOLIO<span> </span></h2>
-		</div>
+	</div>
         <div className='portofolio-grids'>
             <div className='portofolio-col text-center'>
                 <a href="https://theagency.id/tender/client/#/" target='_blank'>
