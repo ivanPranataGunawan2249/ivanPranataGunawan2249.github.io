@@ -19,7 +19,7 @@ function Portofolio() {
 				<p>Website "The Agency Tender Client" </p>
             </div>
             <div className='portofolio-col text-center'>
-                <a href="https://theagency.id/tender/client/#/" target='_blank'>
+                <a href="https://lelangbandwidth.com/#/" target='_blank'>
                     <img
                         className="portfolio-img img-fluid"
                         src="./images/lelang-bandwidth.png"
