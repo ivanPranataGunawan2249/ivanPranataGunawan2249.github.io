@@ -1,0 +1,42 @@
+.home {
+    margin-top: 30px;
+}
+
+.img-carousel{
+    opacity: 0.8;
+}
+
+.carousel-caption {
+    text-align: left;
+    color: #000;
+    display: flex;
+}
+
+.carousel-caption p{
+    font-size: 1vw;
+}
+
+.carousel-caption h3{
+    font-size: 2vw;
+}
+
+.profile-picture{
+	margin-top: 0.8em;
+    width: 15%;
+    border-radius: 25%;
+}
+
+.caption{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.carousel-caption2 {
+    text-align: right;
+    color: black;
+    display: flex;
+}

@@ -1,0 +1,67 @@
+.skills{
+	background:#20191B;
+    padding-top: 2.5em;
+}
+
+.skill-section h2{
+	color:#C6C3C5;
+	font-weight:300;
+}
+
+.skill-section span{
+	background: #8C868A;
+	height:1px;
+	width:20%;
+	display:inline-block;
+	vertical-align:middle;
+}
+
+.skill-section span:nth-child(1){
+	margin-right:10px;
+}
+
+.skill-section span:nth-child(2){
+	margin-left:10px;
+}
+
+.skill-exp{
+    width: 25%;
+}
+
+.skill-exp p{
+    margin-top: 5px;
+    color: #fff;
+    font-size: 2vw;
+}
+
+.skill-exp .logo{
+    color: #fff;
+}
+
+.logo-skills{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.html-img{
+    width: 140px;
+}
+
+.javascript-img{
+    width: 200px;
+}
+
+.java-img{
+    width: 150px;
+}
+
+.tailwind-img{
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.angular-img{
+    width: 190px;
+}

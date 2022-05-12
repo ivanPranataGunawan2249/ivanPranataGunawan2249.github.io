@@ -1,0 +1,51 @@
+.portfolio{
+	min-height:600px;
+	background:#ffffff;
+	text-align:center;
+}
+
+.portfolio-section h2{
+	color:#91898D;
+	font-size:2em;
+	padding:2em 0 1em;
+	margin: 0;
+}
+
+.portfolio-section span{
+	background:#8C868A;
+	height:1px;
+	width:20%;
+	display:inline-block;
+	vertical-align:middle;
+}
+
+.portfolio-section span:nth-child(1){
+	margin-right:10px;
+}
+
+.portfolio-section span:nth-child(2){
+	margin-left:10px;
+}
+
+.portofolio-grids{
+    display: flex;
+    flex-direction: row;
+}
+
+.portofolio-col{
+    width: 50%;
+    padding: 20px;
+}
+
+.portfolio-img{
+    width: 500px;
+}
+
+.portfolio-img-android{
+    width: 150px;
+}
+
+.text-CMS{
+    margin-top: 60px;
+    font-size: 2vw;
+}

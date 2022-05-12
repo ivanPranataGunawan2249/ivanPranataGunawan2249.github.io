@@ -1,0 +1,53 @@
+.about{
+	color:white;
+	text-align:center;
+	background:#281D24;
+    padding-bottom: 3em;
+}
+
+.header-section h2{
+	color: #C6C3C5;
+	font-weight: 300;
+	margin-top: 2.5em;
+	margin: 0;
+	padding: 2em 0 1em 0;
+	font-size: 5vw;
+}
+
+.header-section span{
+	background: #8C868A;
+	height:1px;
+	width:20%;
+	display:inline-block;
+	vertical-align:middle;
+}
+
+.header-section span:nth-child(1){
+	margin-right:10px;
+}
+
+.header-section span:nth-child(2){
+	margin-left:10px;
+}
+
+.personal{
+    color: white;
+}
+
+.about span p{
+	color: gray;
+	line-height: 2em;
+	margin-bottom: 4em;
+	width: 71%;
+	margin: 0 auto;
+}
+.years{
+	margin-bottom:4em;
+	color:#F1F0F0;
+}
+.years p{
+	padding-top:1em;
+	line-height:2em;
+	width: 45%;
+	margin:0 auto;
+}
