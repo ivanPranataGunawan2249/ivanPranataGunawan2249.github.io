@@ -16,7 +16,7 @@ function Portofolio() {
                         src="./images/tender1.png"
                     />
                 </a>
-				<p>Berikut portofolio saya yaitu "The Agency Tender Client" </p>
+				<p>website "The Agency Tender Client" </p>
             </div>
             <div className='portofolio-col text-center'>
                 <a href="https://theagency.id/tender/client/#/" target='_blank'>
@@ -25,7 +25,7 @@ function Portofolio() {
                         src="./images/lelang-bandwidth.png"
                     />
                 </a>
-				<p>Berikut portofolio saya yaitu "Lelang Bandwidth" </p>
+				<p>Landing Page Website "Lelang Bandwidth" </p>
             </div>
         </div>
 
@@ -37,7 +37,7 @@ function Portofolio() {
                         src="./images/sobat-tani.jpg"
                     />
                 </a>
-				<p>Berikut portofolio saya yaitu "Sobat Tani" </p>
+				<p>Mobile App "Sobat Tani" </p>
             </div>
             <div className='portofolio-col text-center'>
 				<p className='text-CMS'>And some CMS admin applications <br/>that can't be displayed here.</p>
